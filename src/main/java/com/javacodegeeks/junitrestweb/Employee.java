@@ -45,4 +45,14 @@ public class Employee {
 		this.designation = designation;
 	}
 
+	public String getNewName() {
+		return newName;
+	}
+
+	public void setNewName(String newName) {
+		this.newName = newName;
+	}
+	
+	
+
 }
