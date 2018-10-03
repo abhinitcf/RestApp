@@ -9,6 +9,15 @@ public class Employee {
 	private String lastName;
 	private String designation;
 	private String newName;
+	private String newChanges;
+
+	public String getNewChanges() {
+		return newChanges;
+	}
+
+	public void setNewChanges(String newChanges) {
+		this.newChanges = newChanges;
+	}
 
 	public Employee() {
 	}
