@@ -19,6 +19,9 @@ public class EmployeeResource {
 		emp.setLastName("Chandra");
 		emp.setDesignation("MANAGER");
 		emp.setNewName("abhinit");
+		emp.setNewName("abhinit");
+		emp.setNewName("abhinit");
+		emp.setNewName("abhinit");
 
 		return emp;
 	}
