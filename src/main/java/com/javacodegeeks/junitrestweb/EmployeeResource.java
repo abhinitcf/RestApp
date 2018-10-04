@@ -21,7 +21,7 @@ public class EmployeeResource {
 		emp.setNewName("abhinit");
 		emp.setNewName("abhinit");
 		emp.setNewName("abhinit");
-		emp.setNewName("abhinit");
+		emp.setNewName("nikhil");
 
 		return emp;
 	}
